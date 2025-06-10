@@ -1,0 +1,15 @@
+.background {
+    background-color: aquamarine;
+}
+
+.text-size {
+    font-size: 40px;
+}
+
+.font-style {
+    font-family: Helvetica;
+}
+
+.font-decoration {
+    text-decoration: line-through;
+}
